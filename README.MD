@@ -1,4 +1,4 @@
-## Apache2 with php7 on Ubuntu 16.04 LTS and apache rewrite module enabled
+## Apache2 (rewrite enabled) with php7 on Ubuntu 16.04 LTS
 
 This is a docker image with Ubuntu 16.04 LTS with apache2, php7/composer and apache's rewrite module enabled
 
